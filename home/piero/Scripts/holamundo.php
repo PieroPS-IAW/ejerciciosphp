@@ -11,5 +11,7 @@
     ?>
     <?php echo "Frase para ver en git" ;
      ?>
+   <?php echo "Frase para ver en debian 12";
+   ?>
    </body>
 </html>
